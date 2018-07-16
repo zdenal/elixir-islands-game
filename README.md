@@ -1,5 +1,5 @@
 # Why
-I have chosen to read this book **Functional Web Development with Elixir, OTP, and Phoenix** mainly for approach to how to build web applications.
+I have picked this book **Functional Web Development with Elixir, OTP, and Phoenix** mainly for approach how to build web applications.
 Postpone adding framework and data storage. As it is well described in book our applications should have their own domains,
 completely separate from the framework. They should maintain a clean separation between the interface and the core application domain.
 The slippery slope is that frameworks make it all too easy to tangle the framework components and the application together in ways that really hurt us
